@@ -1,0 +1,14 @@
+{
+    "name": "42118/composer-teste",
+    "description": "Um teste de Composer",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^4.1"
+    },
+    "authors": [
+        {
+            "name": "Matheus Miliorini",
+            "email": "miliorinimatheus@gmail.com"
+        }
+    ]
+}
